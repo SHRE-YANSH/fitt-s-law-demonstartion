@@ -1,8 +1,6 @@
 # precision-click-game
 
-Small game developed as a demonstration of Fitt’s Law for [24 jours de web](https://www.24joursdeweb.fr/).
-
-Updated for [this article on Learning XState](https://fvsch.com/learning-xstate).
+Small game developed as a demonstration of Fitt’s Law for 
 
 ## Get started
 
